@@ -3,5 +3,5 @@ Scripts are adapted from those used in Diaconescu et al. (2014, PLOS CB 10: e100
 (released under the terms of the GNU General Public Licence (GPL), version 3; Copyright (C) 2012-2013 Christoph Mathys, TNU, UZH & ETHZ) 
 and avilable here: http://www.translationalneuromodeling.org/tapas.
 
-The script available in this repository have been adapted in order to provide separate alpha estimates for volatile and stable 
+The scripts available in this repository have been adapted in order to provide separate alpha estimates for volatile and stable 
 learning environments.
